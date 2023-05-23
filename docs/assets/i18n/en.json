@@ -1,0 +1,36 @@
+{
+    "header": {
+        "saludo": "Hello!, I'm",
+        "espaniol": "Spanish",
+        "ingles": "English",
+        "subtitulo": "full stack web developer & data analyst",
+        "parrafo": "This is my digital portfolio. Here you can learn more about my experience. I am passionate about the world of technology and I will be happy to share my knowledge with you"
+    },
+    "navbar": {
+        "link1" : "About Me",
+        "link2" : "Projects",
+        "link3": "Contact"
+    },
+    "acercade": {
+        "titulo": "About Me",
+        "subtitulo1" : "Experience",
+        "subtitulo2": "Education",
+        "subtitulo3": "Skills",
+        "parrafo" :"I am a sociologist and programmer. I am interested in the positive impact of technology in society in general and in the workplace in particular. I love creating solutions to complex and challenging problems, making the code as neat and efficient as possible",
+        "experiencia": "I have 2 years of programming experience performing data analysis and web development tasks, both at my workplace and independently",
+        "educacion": "I have a degree in Sociology from the University of Buenos Aires, and I entered the world of programming by taking courses and self-taught",
+        "skills": {
+            "parrafo" : "My main skills and technical knowledge include:",
+            "web": "Full stack web development using TypeScript and frameworks such as Angular and NestJS, which provide a solid and easily scalable architecture",
+            "database": "Implementation of both SQL and No-SQL databases, such as Mongo DB or Firebase",
+            "cloud": "Use of cloud services such as AWS, Google Cloud or Mongo Atlas for medium/large projects, and free options such as Vercel or github pages for small projects",
+            "data": "Extraction, cleaning, analysis and visualization of data using Python, Pandas, Numpy, Matplotlib and PowerBI"
+        }
+    },
+    "proyectos": {
+        "titulo": "Projects"
+    },
+    "contacto": {
+        "titulo": "Contact"
+    }
+}
