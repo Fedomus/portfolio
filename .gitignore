@@ -3,4 +3,5 @@
 
 !docs/
 !docs/assets
-!docs/*
+!docs/assets/*
+!docs/assets/*/*

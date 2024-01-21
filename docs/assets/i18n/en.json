@@ -1,0 +1,92 @@
+{
+    "header": {
+        "saludo": "Hello!, I'm",
+        "espaniol": "Spanish",
+        "ingles": "English",
+        "subtitulo1": "JavaScript and TypeScript Full Stack Developer",
+        "subtitulo2": "Python Data Analyst",
+        "parrafo": "This is my digital portfolio. Here you can see some of my projects and learn more about the technologies I use and the services I offer as an independent worker."
+    },
+    "navbar": {
+        "link1" : "About Me",
+        "link2" : "Projects"
+    },
+    "acercade": {
+        "titulo": "About Me",
+        "subtitulo1" : "Experience",
+        "subtitulo2": "Education",
+        "subtitulo3": "Skills",
+        "parrafo" :"I am interested in the positive impact of technology in society in general and in the workplace in particular. I love creating solutions to complex and challenging problems, making the code as neat and efficient as possible",
+        "experiencia": "I have 2 years of programming experience performing data analysis and web development tasks, both at my workplace and independently",
+        "educacion": "I have a degree in Sociology from the University of Buenos Aires, and I entered the world of programming by taking courses and self-taught",
+        "skills": {
+            "parrafo" : "My main skills and technical knowledge include:",
+            "web": "Full stack web development using Node.js, Express and frameworks such as Angular and NestJS, which provide a solid and easily scalable architecture",
+            "database": "Implementation of both SQL and No-SQL databases, such as Mongo DB or Firebase",
+            "cloud": "Use of cloud services such as AWS, Google Cloud or Mongo Atlas for medium/large projects, and free options such as Vercel or github pages for small projects",
+            "data": "Extraction, cleaning, analysis and visualization of data using Python, Pandas, Numpy, Matplotlib and PowerBI"
+        }
+    },
+    "proyectos": {
+        "titulo": "Projects",
+        "data": [
+            {
+                "img": "sea_level_plot.png",
+                "titulo": "Data Análysis with Python",
+                "resumen":"Final projects of 'Data Análysis with Python' course of freeCodeCamp. It has a demographic data analyzer, a mean variance standard deviation calculator, a medical data visualizer, a page view time series visualizer and a sea level predictor" ,
+                "link": "",
+                "repositorio": "https://github.com/Fedomus/freeCodeCamp-dataAnalysisPython-projects",
+                "tecnologias": [
+                    "Python", "Pandas", "Numpy", "Matplotlib"
+                    ]
+            },
+            {
+                "img": "bookmarks-img.png",
+                "titulo": "Bookmarks App",
+                "resumen": "Full stack application that has a login and a bookmarks manager that allows you to read, store, edit and delete saved links",
+                "link": "http://bookmarks.us-east-1.elasticbeanstalk.com/",
+                "repositorio": "https://github.com/Fedomus/bookmarks",
+                "tecnologias": [
+                    "NestJS", "Prisma", "Docker Compose","Angular", "Angular Material", "AWS"
+                    ]
+            },
+            {
+                "img": "",
+                "titulo": "Stock price checker",
+                "resumen": "freeCodeCamp - Information Security - project #1 - Secure API that brings stock price information and accept 1 like per IP",
+                "link": "https://detailed-smart-ballcap.glitch.me",
+                "repositorio": "https://github.com/Fedomus/stock-price-checker",
+                "tecnologias": [
+                    "Node.js", "Express", "Helmet", "MongoDB"
+                    ]
+            },
+            {
+                "img": "",
+                "titulo": "Anonymous message board",
+                "resumen": "freeCodeCamp - Information Security - project #2 - Secure API that save and brings data of a anonymous message board with threads and replies",
+                "link": "https://roasted-neighborly-dinner.glitch.me",
+                "repositorio": "https://github.com/Fedomus/anonymous-message-board",
+                "tecnologias": [
+                    "Node.js", "Express", "Helmet", "MongoDB"
+                    ]
+            },
+            {
+                "img": "",
+                "titulo": "secure real time multiplayer game",
+                "resumen": "freeCodeCamp - Information Security - project #5 - Secure Full Stack App that is a real time multiplayer game",
+                "link": "https://lizard-honored-profit.glitch.me",
+                "repositorio": "https://github.com/Fedomus/secure-real-time-multiplayer-game",
+                "tecnologias": [
+                    "Node.js", "Express", "Helmet", "Socket.io", "html canvas"
+                    ]
+            }
+        ]
+    },
+    "contacto": {
+        "titulo": "Contact"
+    },
+    "botones": {
+        "codigo": "Code",
+        "web": "Website"
+    }
+}

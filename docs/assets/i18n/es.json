@@ -1,0 +1,90 @@
+{
+    "header": {
+        "saludo": "¡Hola!, soy",
+        "subtitulo1": "Desarrollador Full Stack con JavaScript y TypeScript",
+        "subtitulo2": "Analista de Datos con Python",
+        "parrafo": "Este es mi portafolio digital. Aquí podrás conocer algunos de mis proyectos y saber más sobre las tecnologías que uso y los servicios que ofrezco como trabajador independiente."
+    },
+    "navbar": {
+        "link1" : "Sobre Mí",
+        "link2" : "Proyectos"
+    },
+    "acercade": {
+        "titulo": "Sobre Mí",
+        "subtitulo1" : "Experiencia",
+        "subtitulo2": "Educación",
+        "subtitulo3": "Habilidades Técnicas",
+        "parrafo" :"Estoy interesado en el impacto positivo de la tecnología en la sociedad en general y en los lugares de trabajo en particular. Me encanta crear soluciones para problemas complejos y desafiantes, buscando que el código sea lo más prolijo y eficiente posible",
+        "experiencia": "Tengo 2 años de experiencia en programación realizando tareas de análisis de datos y de desarrollo web, tanto en mi lugar de trabajo como de forma independiente",
+        "educacion": "Soy Licenciado en Sociología de la Universidad de Buenos Aires, e ingresé al mundo de la programación realizando cursos y de forma autodidacta",
+        "skills" : {
+            "parrafo" : "Mis principales habilidades y conocimientos técnicos incluyen:",
+            "web": "Desarrollo web full stack utilizando Node.js, Express y frameworks como Angular y NestJS, que proporcionan una arquitectura sólida y fácilmente escalable",
+            "database": "Implementación de bases de datos tanto SQL como No-SQL, tales como Mongo DB o Firebase",
+            "cloud": "Utilización de servicios en la nube como AWS, Google Cloud o Mongo Atlas para proyectos medianos/grandes, y opciones gratuitas como Vercel o github pages para proyectos pequeños",
+            "data": "Extracción, limpieza, análisis y visualización de datos empleando Python, Pandas, Numpy, Matplotlib y PowerBI"
+        }
+    },
+    "proyectos": {
+        "titulo": "Proyectos",
+        "data": [
+            {
+                "img": "sea_level_plot.png",
+                "titulo": "Análisis de Datos con Python",
+                "resumen":"freeCodeCamp - Data Analysis With Python - Proyectos finales para la aprobación del curso. Posee un analizador de datos demográficos, una calculadora de media, varianza y desviación estándard, un visualizador de datos médicos, un visualizador de la serie temporal de vistas de una página y un predictor del nivel del mar." ,
+                "link": "",
+                "repositorio": "https://github.com/Fedomus/freeCodeCamp-dataAnalysisPython-projects",
+                "tecnologias": [
+                    "Python", "Pandas", "Numpy", "Matplotlib"
+                    ]
+            },
+            {
+                "img": "bookmarks-img.png",
+                "titulo": "Aplicacion de Marcadores",
+                "resumen": "Aplicacion full stack que posee un login y un administrador de marcadores que permite leer, almacenar, editar y borrar los links guardados",
+                "link": "http://bookmarks.us-east-1.elasticbeanstalk.com/",
+                "repositorio": "https://github.com/Fedomus/bookmarks",
+                "tecnologias": [
+                    "NestJS", "Prisma", "Docker Compose", "Angular", "Angular Material", "AWS"
+                    ]
+            },
+            {
+                "img": "",
+                "titulo": "Verificador de precios de acciones",
+                "resumen": "freeCodeCamp - Information Security - proyecto 1 - API segura que proporciona información del precio de acciones y almacena 1 like por IP.",
+                "link": "https://detailed-smart-ballcap.glitch.me",
+                "repositorio": "https://github.com/Fedomus/stock-price-checker",
+                "tecnologias": [
+                    "Node.js", "Express", "Helmet", "MongoDB"
+                    ]
+            },
+            {
+                "img": "",
+                "titulo": "Tablero de mensajes anónimos",
+                "resumen": "freeCodeCamp - Information Security - proyecto 2 - API segura que almacena y brinda datos de un tablero de mensajes anónimos, con hilos temáticos y respuestas.",
+                "link": "https://roasted-neighborly-dinner.glitch.me",
+                "repositorio": "https://github.com/Fedomus/anonymous-message-board",
+                "tecnologias": [
+                    "Node.js", "Express", "Helmet", "MongoDB"
+                    ]
+            },
+            {
+                "img": "",
+                "titulo": "Juego multijugador en tiempo real y seguro",
+                "resumen": "freeCodeCamp - Information Security - proyecto 5 - Aplicación Full Stack segura que es un juego multijugador en tiempo real",
+                "link": "https://lizard-honored-profit.glitch.me",
+                "repositorio": "https://github.com/Fedomus/secure-real-time-multiplayer-game",
+                "tecnologias": [
+                    "Node.js", "Express", "Helmet", "Socket.io", "html canvas"
+                    ]
+            }
+        ]
+    },
+    "contacto": {
+        "titulo": "Contacto"
+    },
+    "botones": {
+        "codigo": "Código",
+        "web": "Sitio web"
+    }
+}
