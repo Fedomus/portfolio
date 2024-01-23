@@ -1,11 +1,15 @@
 {
+    "idiomas":{
+        "es": "Spanish",
+        "en": "English"
+    },
     "header": {
         "saludo": "Hello!, I'm",
         "espaniol": "Spanish",
         "ingles": "English",
-        "subtitulo1": "JavaScript and TypeScript Full Stack Developer",
+        "subtitulo1": "Node.js Full Stack Developer",
         "subtitulo2": "Python Data Analyst",
-        "parrafo": "This is my digital portfolio. Here you can see some of my projects and learn more about the technologies I use and the services I offer as an independent worker."
+        "parrafo": "This is my digital portfolio. Here you can see some of my projects and learn more about the technologies I use."
     },
     "navbar": {
         "link1" : "About Me",
@@ -16,7 +20,7 @@
         "subtitulo1" : "Experience",
         "subtitulo2": "Education",
         "subtitulo3": "Skills",
-        "parrafo" :"I am interested in the positive impact of technology in society in general and in the workplace in particular. I love creating solutions to complex and challenging problems, making the code as neat and efficient as possible",
+        "parrafo" :"I am interested in the positive impact of technology in society and in the workplace. I love creating solutions to complex and challenging problems, making the code as neat and efficient as possible",
         "experiencia": "I have 2 years of programming experience performing data analysis and web development tasks, both at my workplace and independently",
         "educacion": "I have a degree in Sociology from the University of Buenos Aires, and I entered the world of programming by taking courses and self-taught",
         "skills": {

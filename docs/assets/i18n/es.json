@@ -1,9 +1,13 @@
 {
+    "idiomas":{
+        "es": "Español",
+        "en": "Inglés"
+    },
     "header": {
         "saludo": "¡Hola!, soy",
-        "subtitulo1": "Desarrollador Full Stack con JavaScript y TypeScript",
+        "subtitulo1": "Desarrollador Full Stack con Node.js",
         "subtitulo2": "Analista de Datos con Python",
-        "parrafo": "Este es mi portafolio digital. Aquí podrás conocer algunos de mis proyectos y saber más sobre las tecnologías que uso y los servicios que ofrezco como trabajador independiente."
+        "parrafo": "Este es mi portafolio digital. Aquí podrás conocer algunos de mis proyectos y saber más sobre las tecnologías que uso."
     },
     "navbar": {
         "link1" : "Sobre Mí",
@@ -14,7 +18,7 @@
         "subtitulo1" : "Experiencia",
         "subtitulo2": "Educación",
         "subtitulo3": "Habilidades Técnicas",
-        "parrafo" :"Estoy interesado en el impacto positivo de la tecnología en la sociedad en general y en los lugares de trabajo en particular. Me encanta crear soluciones para problemas complejos y desafiantes, buscando que el código sea lo más prolijo y eficiente posible",
+        "parrafo" :"Estoy interesado en el impacto positivo de la tecnología en la sociedad y en los lugares de trabajo. Me encanta crear soluciones para problemas complejos y desafiantes, buscando que el código sea lo más prolijo y eficiente posible",
         "experiencia": "Tengo 2 años de experiencia en programación realizando tareas de análisis de datos y de desarrollo web, tanto en mi lugar de trabajo como de forma independiente",
         "educacion": "Soy Licenciado en Sociología de la Universidad de Buenos Aires, e ingresé al mundo de la programación realizando cursos y de forma autodidacta",
         "skills" : {

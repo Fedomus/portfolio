@@ -1,8 +1,6 @@
 *
 !.gitignore
 
-!docs/
-!docs/assets
-!docs/main.bedfca580c69cc3d.js
+!docs/*
 !docs/assets/*
 !docs/assets/*/*
